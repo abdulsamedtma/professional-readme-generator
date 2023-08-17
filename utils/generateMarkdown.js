@@ -19,7 +19,7 @@ function getLicense(value) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  //const {title, description, table of content, installation, license, contributing, Test, Questions }= data  
+  //const {title, description, table of content, installation, license, contributing, Test, Questions } = data;  
   const licenseLink = getLicense(data.license)
   return `# ${data.title}
   ${licenseLink}
