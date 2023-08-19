@@ -24,5 +24,5 @@
   For questions or concerns, please contact [abdulsamedtma](https://github.com/abdulsamedtma) or reach out via email at abdulsamedtma@gmail.com.
   
   ---
-                                                  This README was generated with ❤️ by README Generator. ✨  Every day is a learning day!  ✨
+                     This README was generated with ❤️ by README Generator. ✨  Every day is a learning day!  ✨
 
