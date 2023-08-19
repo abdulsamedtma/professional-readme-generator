@@ -147,7 +147,9 @@ Contributions are always welcome! But please read the contribution guidelines fi
 
 ## Test
 To test the application, clone the repository, install dependencies with npm install, and run automated tests using npm test. Review the output for any errors. Manually test the application by running node index.js, confirming the generated README matches expectations. Test various input scenarios and report bugs to maintainers if found. Additionally, review and test pull requests from others, ensuring code quality. Comprehensive testing guarantees correct functionality and helps maintain a robust application.
+
 Repository URL : https://github.com/abdulsamedtma/professional-readme-generator
+
 Walkthrough video URL : https://drive.google.com/file/d/17z04Ys-r2EEXe_ja0xnXbC7u-tvpfsgb/view
 
                   This README was generated with ❤️ by README Generator. ✨  Every day is a learning day!  ✨
