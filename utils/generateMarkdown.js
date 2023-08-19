@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   For questions or concerns, please contact [${data.userName}](https://github.com/${data.userName}) or reach out via email at ${data.userEmail}.
   
   ---
-                                                  This README was generated with ❤️ by README Generator. ✨  Every day is a learning day!  ✨
+                     This README was generated with ❤️ by README Generator. ✨  Every day is a learning day!  ✨
 
 `;
 }
